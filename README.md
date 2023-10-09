@@ -1,2 +1,3 @@
-# Pj_Automacao_ de_Tarefas
- Projeto - Automação de Tarefas
+# Pj_Automacao_de_Tarefas
+
+Projeto - Automação de Tarefas com Python
