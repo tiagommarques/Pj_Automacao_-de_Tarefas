@@ -10,6 +10,7 @@ import time
 # pyautogui.press -> apertar 1 tecla
 # pyautogui.click -> clicar em algum lugar da tela
 # pyautogui.hotkey -> combinação de teclase
+#
 
 pyautogui.PAUSE = 0.5
 
